@@ -136,6 +136,6 @@ def getSemigroupTriple(w1, w2, w3, w4, l, degree, semigroup):
 # num = 16
 # print(tripleNewtonPairs(num))
 
-for num in range(5, 30):
+for num in range(25, 30):
     print("pairs for", num)
     print(tripleNewtonPairs(num))
